@@ -8,6 +8,6 @@ Une chose qui mâ€™inspire dans cette technique est le graphic design. Ce qui mâ€
 ![](./media/image_karim_github.jpeg)
 
 # voici un lien de page instagram qui m'inspire dans le domaine de graphique design.
-cette page est une inspiration car elle est vraimet mon style de design. Elle partage mes preference dans le design grapgique et je trouve toujours edes nouvelle idee dedans.
+cette page est une inspiration car elle est vraimet mon style de design. Elle partage mes preference dans le design gragique et je trouve toujours des nouvelles idees dedans.
 
 https://www.instagram.com/dsgn.verse/

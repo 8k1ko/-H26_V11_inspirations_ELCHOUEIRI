@@ -6,3 +6,7 @@ Je suis dans ma quatrième session dans la technique d’intégration multimédi
 Une chose qui m’inspire dans cette technique est le graphic design. Ce qui m’inspire aussi ce sont des applications telles qu’Instagram et Pinterest, car je découvre de nouvelles idées ou techniques pour élargir mon inspiration afin de créer des choses plus originales et pas seulement copier-coller ce que les autres font.
 
 ![](./media/image_karim_github.jpeg)
+
+voici un lien de page instagram qui m'inspire dans le domaine de graphique design.
+
+https://www.instagram.com/dsgn.verse/

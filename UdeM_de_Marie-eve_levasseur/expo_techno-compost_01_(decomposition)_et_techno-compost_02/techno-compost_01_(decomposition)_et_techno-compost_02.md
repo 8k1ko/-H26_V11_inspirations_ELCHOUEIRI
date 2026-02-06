@@ -2,9 +2,10 @@
  
 
 ## Informations générales
-- **Nom de l’exposition / événement :**
-- **Lieu de mise en exposition :**
-- **Type d’exposition :** (temporaire, permanente, itinérante, intérieure, extérieure)
+- **Nom de l’exposition / événement :**TECHNO-COMPOST 01(DECOMPOSITION) /TECHNO-COMPOST 02(LE BRUIT RVB ET L'ESPACE LATENT EN TANT QUE JARDIN)
+ 
+- **Lieu de mise en exposition :**UdeM
+- **Type d’exposition :** (temporaire, intérieure,)
 - **Date de la visite :**
 - **Artiste ou firme :**
 - **Année de réalisation :**

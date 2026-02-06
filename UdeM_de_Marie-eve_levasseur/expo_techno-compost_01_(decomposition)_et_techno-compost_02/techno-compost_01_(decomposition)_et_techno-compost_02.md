@@ -4,11 +4,11 @@
 ## Informations générales
 - **Nom de l’exposition / événement :**TECHNO-COMPOST 01(DECOMPOSITION) /TECHNO-COMPOST 02(LE BRUIT RVB ET L'ESPACE LATENT EN TANT QUE JARDIN)
  
-- **Lieu de mise en exposition :**UdeM
-- **Type d’exposition :** (temporaire, intérieure,)
-- **Date de la visite :**
-- **Artiste ou firme :**
-- **Année de réalisation :**
+- **Lieu de mise en exposition :UdeM
+- **Type d’exposition :(temporaire, intérieure,)
+- **Date de la visite :Janvier 30 2026
+- **Artiste ou firme :Marie-Eve Levasseur
+- **Année de réalisation :2025
 
 ![Affiche de l’exposition](medias/expo_affiche.jpg)
 

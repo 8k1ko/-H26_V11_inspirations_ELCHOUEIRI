@@ -11,7 +11,7 @@
 - Année de réalisation : 2025
 
 ![](./media/cartel.jpg)
->image de cartel de Marie-eve levasseur prise par Karim Elchoueiri 
+>Image de cartel de Marie-eve levasseur prise par Karim Elchoueiri 
 
 ---
 
@@ -22,7 +22,7 @@ La deuxième partie est un projecteur dynamique qui projette des images sélecti
 Enfin, la troisième composante comprend deux chaises équipées de casques de réalité virtuelle. L’une de ces chaises intègre des moteurs vibrants, offrant une immersion accrue. Le casque permet aux utilisateurs de saisir virtuellement les images, qui tombent, se transforment, et symbolisent la décomposition des déchets. L’autre chaise, quant à elle, propose simplement une immersion passive, laissant les images chuter dans un environnement qui simule le tri des déchets.
 
 ![](./media/vue_ensemble.jpg)
->image de vue d'ensemble de l'oeuvre de Marie-Eve levasseur prise par Karim Elchoueiri 
+>Image de vue d'ensemble de l'oeuvre de Marie-Eve levasseur prise par Karim Elchoueiri 
 ---
 
 ## Type d’installation
@@ -53,7 +53,7 @@ Description de l’implantation de l'œuvre :
 En entrant dans la galerie, on découvre d’abord une autre œuvre, puis celle de Marie-Ève Levasseur, qui est divisée en trois parties. D’abord, un projecteur montre des images générées par IA, mêlant insectes et motifs, projetées sur un mur blanc. Ensuite, à droite, un grand collage d’images non utilisées recouvre tout le mur. Au centre, il y a deux chaises en métal, en forme d’insectes, avec des casques VR reliés à un petit ordinateur sous la projection. Le public peut circuler, s’installer, et profiter de l’expérience, avec de l’espace libre pour bouger autour.
 
 ![](./media/dispositif.jpg)
->image de croquis de l'oeuvre de Marie-Eve levasseur faite par Karim Elchoueiri 
+>Image de croquis de l'oeuvre de Marie-Eve levasseur faite par Karim Elchoueiri 
 ---
 
 ## Composantes et techniques
@@ -71,7 +71,7 @@ Liste des composantes de l'œuvre ou du dispositif :
 Le visiteur, en entrant, est invité à explorer les différentes parties de l’œuvre. Il s’assoit sur les chaises avec les casques VR, et il peut interagir en touchant les images, en les agrandissant, et en explorant les détails. L’œuvre réagit en proposant des images nouvelles, créant une ambiance à la fois un peu sombre, mais aussi très lumineuse grâce aux couleurs. Personnellement, j’ai adoré l’idée derrière l’œuvre : transformer des images oubliées en mosaïque, tout en donnant au visiteur la possibilité de toucher et ressentir ces images d’une manière unique.
 
 ![](./media/chaise_sans_moteur.jpg)
->image de chaise de l'oeuvre de Marie-Eve levasseur prise par Karim Elchoueiri 
+>Image de chaise de l'oeuvre de Marie-Eve levasseur prise par Karim Elchoueiri 
 ---
 
 ## ❤️ Ce qui m’a plu / inspiré

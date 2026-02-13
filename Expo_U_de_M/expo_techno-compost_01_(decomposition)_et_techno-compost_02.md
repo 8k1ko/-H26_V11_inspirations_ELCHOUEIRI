@@ -21,7 +21,7 @@ La première composante est un grand tableau de mosaïque formé d’images recy
 La deuxième partie est un projecteur dynamique qui projette des images sélectionnées, évoluant avec le temps pour renouveler l’expérience visuelle.
 Enfin, la troisième composante comprend deux chaises équipées de casques de réalité virtuelle. L’une de ces chaises intègre des moteurs vibrants, offrant une immersion accrue. Le casque permet aux utilisateurs de saisir virtuellement les images, qui tombent, se transforment, et symbolisent la décomposition des déchets. L’autre chaise, quant à elle, propose simplement une immersion passive, laissant les images chuter dans un environnement qui simule le tri des déchets.
 
-![vue_ensemble](https://github.com/user-attachments/assets/ea961b99-7fec-4028-9130-97f4a6d1c55e)
+![](./media/vue_ensemble.jpg)
 
 ---
 

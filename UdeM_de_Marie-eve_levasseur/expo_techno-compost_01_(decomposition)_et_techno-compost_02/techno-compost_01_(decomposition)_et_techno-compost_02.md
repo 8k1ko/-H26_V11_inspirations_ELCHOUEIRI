@@ -26,8 +26,8 @@ Enfin, la troisième composante comprend deux chaises équipées de casques de r
 
 ## Type d’installation
 - ☐ Contemplative
-- ☐ Immersive
-- ☐ Interactive
+- [x] Immersive
+- [x] Interactive
 
 Description du type d’installation et de la relation avec le public.
 

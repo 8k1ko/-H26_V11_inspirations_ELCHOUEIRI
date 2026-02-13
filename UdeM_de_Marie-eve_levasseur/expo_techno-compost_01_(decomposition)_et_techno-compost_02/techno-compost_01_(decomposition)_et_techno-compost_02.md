@@ -11,6 +11,7 @@
 - Année de réalisation : 2025
 
 ![Affiche de l’exposition](medias/cartel_01.jpeg)
+![](./medias/cartel_01.jpeg)
 
 ---
 

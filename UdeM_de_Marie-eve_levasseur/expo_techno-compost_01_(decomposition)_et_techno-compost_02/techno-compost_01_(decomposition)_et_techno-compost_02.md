@@ -48,10 +48,8 @@ L’installation est immersive et interactive. Le public est plongé dans un env
 
 ## Mise en espace
 Description de l’implantation de l'œuvre :
-- emplacement dans la salle
-- relation aux murs, au sol, au plafond
-- circulation du public
-- dimensions approximatives
+
+En entrant dans la galerie, on découvre d’abord une autre œuvre, puis celle de Marie-Ève Levasseur, qui est divisée en trois parties. D’abord, un projecteur montre des images générées par IA, mêlant insectes et motifs, projetées sur un mur blanc. Ensuite, à droite, un grand collage d’images non utilisées recouvre tout le mur. Au centre, il y a deux chaises en métal, en forme d’insectes, avec des casques VR reliés à un petit ordinateur sous la projection. Le public peut circuler, s’installer, et profiter de l’expérience, avec de l’espace libre pour bouger autour.
 
 ![Croquis de mise en espace](croquis/mise_en_espace_plan.jpg)
 
@@ -59,54 +57,33 @@ Description de l’implantation de l'œuvre :
 
 ## Composantes et techniques
 Liste des composantes de l'œuvre ou du dispositif :
-- écrans
-- projecteurs
+- projecteur
 - capteurs
-- systèmes audio
-- structures physiques
-- logiciels / technologies utilisées
-
----
-
-## Éléments nécessaires à la mise en exposition
-Éléments fournis par l’institution :
-- socles
-- supports
-- bancs
-- cache-fils
-- éclairage
-- signalétique
-- dispositifs de sécurité
+- systèmes audio dans le VR
+- structures physiques (chaise avec et sans moteurs de vibration)
+- logiciels / technologies utilisées (inconue)
+- papier (pour le mozaik d'images)
 
 ---
 
 ## Expérience vécue
-Description de l’interaction ou de la posture du visiteur :
-- que doit faire le visiteur ?
-- comment l'œuvre réagit ?
-- ressenti personnel
+Le visiteur, en entrant, est invité à explorer les différentes parties de l’œuvre. Il s’assoit sur les chaises avec les casques VR, et il peut interagir en touchant les images, en les agrandissant, et en explorant les détails. L’œuvre réagit en proposant des images nouvelles, créant une ambiance à la fois un peu sombre, mais aussi très lumineuse grâce aux couleurs. Personnellement, j’ai adoré l’idée derrière l’œuvre : transformer des images oubliées en mosaïque, tout en donnant au visiteur la possibilité de toucher et ressentir ces images d’une manière unique.
 
 🎥 Vidéo possible si pertinent.
 
 ---
 
 ## ❤️ Ce qui m’a plu / inspiré
-Analyse critique des éléments inspirants :
-- pourquoi ces éléments sont efficaces
-- comment ils pourraient nourrir mes propres projets
+Ce qui m’a particulièrement plu dans cette œuvre, c’est la façon dont elle donne une seconde vie aux images abandonnées. L’idée de transformer ce qui est rejeté en une mosaïque pleine de sens est très puissante. Les casques VR, en plus, créent un lien fort entre le réel et le virtuel, ce qui rend l’expérience très immersive. Ce qui m’inspire, c’est cette capacité à raconter une histoire à travers des images simples, tout en donnant une dimension émotionnelle. Cela me pousse à réfléchir à mes propres projets, en explorant comment je pourrais utiliser des images ou des technologies immersives pour donner vie à des récits, à des souvenirs ou à des idées que je n’avais pas encore explorés.
 
 ---
 
 ## 🤔 Ce que je ne retiendrais pas ou ferais autrement
-Analyse critique argumentée :
-- aspects problématiques ou perfectibles
-- propositions d’alternatives
-
+Ce que je retiendrai moins, ce sont les chaises. Bien qu’elles soient en lien avec le thème des insectes, je les ai trouvées un peu inconfortables. De plus, la chaise avec les moteurs de vibration manquait un peu de puissance ; je ne ressentais pas autant les vibrations que je l’espérais lorsque j’étais allongé. Pour améliorer cela, j’aurais peut-être rendu les moteurs plus puissants ou retravaillé la forme des chaises pour les rendre plus ergonomiques. Malgré cela, l’expérience reste riche, mais ces ajustements auraient pu renforcer l’impact global.
 ---
 
 ## Références et crédits
-- Site de l’exposition :
-- Site de l’artiste ou de la firme :
-- Crédits photos :
-- Autres sources consultées :
+- Site de l’exposition : https://galerie.umontreal.ca
+- Site de l’artiste ou de la firme : https://www.sagamie.com/blogue/marie-eve-levasseur
+
 

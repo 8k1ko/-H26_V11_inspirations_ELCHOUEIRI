@@ -1,0 +1,7 @@
+![cerveau](https://github.com/user-attachments/assets/498c960c-8b32-4628-8cd4-1fc6e084c972)
+![mozaik](https://github.com/user-attachments/assets/31ced152-9b46-4435-8cea-8ba5207a5d83)
+![expo_final](https://github.com/user-attachments/assets/9e9f6fef-ed74-4dcf-9f26-0eb13fcf7d86)
+![cerveau (1)](https://github.com/user-attachments/assets/ccb8dc60-7154-4da6-841e-0f6775b1097a)
+![cartel](https://github.com/user-attachments/assets/fbe4fb79-1913-4efd-8325-296ce274da44)
+![dispositif](https://github.com/user-attachments/assets/6d09eaee-9387-44e4-b947-8701fed3829c)
+![chaise_sans_moteur](https://github.com/user-attachments/assets/1d8f9635-8146-439d-a5eb-e5f4a5a0f29d)

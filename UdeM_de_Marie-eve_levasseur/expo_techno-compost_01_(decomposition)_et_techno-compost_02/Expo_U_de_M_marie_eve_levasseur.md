@@ -10,7 +10,7 @@
 - Artiste ou firme : Marie-Eve Levasseur
 - Année de réalisation : 2025
 
-![Affiche de l’exposition](medias/cartel.HEIC)
+![Affiche de l’exposition](medias/cartel.jpg)
 
 
 ---

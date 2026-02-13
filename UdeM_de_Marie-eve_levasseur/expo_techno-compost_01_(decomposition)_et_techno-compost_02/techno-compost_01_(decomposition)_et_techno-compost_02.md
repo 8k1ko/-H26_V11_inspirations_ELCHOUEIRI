@@ -36,13 +36,13 @@ L’installation est immersive et interactive. Le public est plongé dans un env
 ---
 
 ## Fonction du dispositif multimédia
-- ☐ Scénographie
-- ☐ Mise en valeur
-- ☐ Mise en contexte
+- [x]Scénographie
+- [x]Mise en valeur
+- [x]Mise en contexte
 - ☐ Support pédagogique
 - ☐ Diffusion du patrimoine immatériel
 
-Explication et justification de la fonction.
+ La fonction de ce dispositif multimédia est immersive et interactive. Il permet de plonger le public dans un univers visuel riche, renforçant l’engagement personnel. Grâce aux interactions via les casques VR et les vibrations, le public devient acteur de l’œuvre. Cette approche, à la fois scénographique et pédagogique, met en contexte les enjeux du recyclage, tout en offrant une expérience sensible et mémorable.
 
 ---
 

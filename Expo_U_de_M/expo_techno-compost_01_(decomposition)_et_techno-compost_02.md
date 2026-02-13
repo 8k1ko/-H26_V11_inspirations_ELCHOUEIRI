@@ -70,7 +70,7 @@ Liste des composantes de l'œuvre ou du dispositif :
 ## Expérience vécue
 Le visiteur, en entrant, est invité à explorer les différentes parties de l’œuvre. Il s’assoit sur les chaises avec les casques VR, et il peut interagir en touchant les images, en les agrandissant, et en explorant les détails. L’œuvre réagit en proposant des images nouvelles, créant une ambiance à la fois un peu sombre, mais aussi très lumineuse grâce aux couleurs. Personnellement, j’ai adoré l’idée derrière l’œuvre : transformer des images oubliées en mosaïque, tout en donnant au visiteur la possibilité de toucher et ressentir ces images d’une manière unique.
 
-![chaise_sans_moteur](https://github.com/user-attachments/assets/1d8f9635-8146-439d-a5eb-e5f4a5a0f29d)
+![](./media/chaise_sans_moteur.jpg)
 
 ---
 

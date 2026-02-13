@@ -78,8 +78,10 @@ Ce qui m’a particulièrement plu dans cette œuvre, c’est la façon dont ell
 
 ---
 
-## 🤔 Ce que je ne retiendrais pas ou ferais autrement
+## 🤔 Ce que je ne retiendrais pas ou ferais autrement 
+
 Ce que je retiendrai moins, ce sont les chaises. Bien qu’elles soient en lien avec le thème des insectes, je les ai trouvées un peu inconfortables. De plus, la chaise avec les moteurs de vibration manquait un peu de puissance ; je ne ressentais pas autant les vibrations que je l’espérais lorsque j’étais allongé. Pour améliorer cela, j’aurais peut-être rendu les moteurs plus puissants ou retravaillé la forme des chaises pour les rendre plus ergonomiques. Malgré cela, l’expérience reste riche, mais ces ajustements auraient pu renforcer l’impact global.
+
 ---
 
 ## Références et crédits

@@ -36,9 +36,9 @@ L’installation est immersive et interactive. Le public est plongé dans un env
 ---
 
 ## Fonction du dispositif multimédia
-- [x]Scénographie
-- [x]Mise en valeur
-- [x]Mise en contexte
+- [x] Scénographie
+- [x] Mise en valeur
+- [x] Mise en contexte
 - ☐ Support pédagogique
 - ☐ Diffusion du patrimoine immatériel
 

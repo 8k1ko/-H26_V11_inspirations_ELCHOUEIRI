@@ -5,3 +5,4 @@
 ![cartel](https://github.com/user-attachments/assets/fbe4fb79-1913-4efd-8325-296ce274da44)
 ![dispositif](https://github.com/user-attachments/assets/6d09eaee-9387-44e4-b947-8701fed3829c)
 ![chaise_sans_moteur](https://github.com/user-attachments/assets/1d8f9635-8146-439d-a5eb-e5f4a5a0f29d)
+![vue_ensemble](https://github.com/user-attachments/assets/ea961b99-7fec-4028-9130-97f4a6d1c55e)

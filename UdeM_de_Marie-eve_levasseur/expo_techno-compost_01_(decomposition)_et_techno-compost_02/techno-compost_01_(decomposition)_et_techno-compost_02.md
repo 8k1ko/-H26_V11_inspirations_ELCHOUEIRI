@@ -29,7 +29,8 @@ Enfin, la troisième composante comprend deux chaises équipées de casques de r
 - [x] Immersive
 - [x] Interactive
 
-Description du type d’installation et de la relation avec le public.
+Type d’installation et relation avec le public
+L’installation est immersive et interactive. Le public est plongé dans un environnement visuel riche, où les images recyclées prennent vie. Les visiteurs interagissent directement via les casques VR et les vibrations, devenant acteurs de l’expérience. Ainsi, le lien avec l’œuvre et l’artiste se renforce à travers cette interaction et cette immersion.
 
 ---
 

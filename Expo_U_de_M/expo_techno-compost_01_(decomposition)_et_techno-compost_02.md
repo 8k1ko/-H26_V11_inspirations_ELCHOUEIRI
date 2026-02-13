@@ -52,7 +52,7 @@ Description de l’implantation de l'œuvre :
 
 En entrant dans la galerie, on découvre d’abord une autre œuvre, puis celle de Marie-Ève Levasseur, qui est divisée en trois parties. D’abord, un projecteur montre des images générées par IA, mêlant insectes et motifs, projetées sur un mur blanc. Ensuite, à droite, un grand collage d’images non utilisées recouvre tout le mur. Au centre, il y a deux chaises en métal, en forme d’insectes, avec des casques VR reliés à un petit ordinateur sous la projection. Le public peut circuler, s’installer, et profiter de l’expérience, avec de l’espace libre pour bouger autour.
 
-![Croquis de mise en espace](croquis/mise_en_espace_plan.jpg)
+![dispositif](https://github.com/user-attachments/assets/6d09eaee-9387-44e4-b947-8701fed3829c)
 
 ---
 

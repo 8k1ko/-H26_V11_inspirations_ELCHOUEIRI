@@ -1,1 +1,100 @@
+# FICHE EXPO — ŒUVRE CHOISIE
 
+## 🎯 Projet sélectionné
+**Titre :** Terminal  
+**Équipe :** (Noms des créateurs)  
+**Lien GitHub :** https://pythons-5.github.io/Terminal/#/
+
+---
+
+## 🧠 Concept de l’œuvre
+
+Décrire :
+- L’intention artistique
+- Le thème
+- Le message
+- Le type d’interaction proposé
+
+---
+
+## 🛠 Technologies utilisées
+
+- Logiciels
+- Capteurs
+- Langages de programmation
+- Matériel électronique
+- Projection / mapping / audio spatial etc.
+
+---
+
+## 🖼 Installation
+
+### 📸 Installation en studio
+![Installation](medias/terminal_installation.jpg)
+
+Description de l’espace :
+- Disposition
+- Circulation du public
+- Ambiance lumineuse
+- Son
+
+---
+
+### 📐 Schéma d’implantation (plantation)
+
+![Schéma](medias/terminal_schema.jpg)
+
+*Source : GitHub de l’équipe Terminal, dossier préproduction*
+
+---
+
+## 🎮 Expérience vécue
+
+### Avant expérimentation
+Ce que je m’attendais à ressentir.
+
+### Pendant l’expérimentation
+- Immersion ?
+- Confusion ?
+- Surprise ?
+- Interaction fluide ou non ?
+
+### Après expérimentation
+- Est-ce que le message est clair ?
+- Est-ce que l’émotion reste ?
+
+Justifier tes impressions avec des exemples précis.
+
+---
+
+## 🎓 Lien avec ma formation en TIM
+
+### 3 cours incontournables :
+
+1. **Programmation interactive**
+   - Essentiel pour gérer les interactions en temps réel.
+2. **Conception d’interfaces et UX**
+   - Permet de structurer l’expérience utilisateur.
+3. **Production vidéo et audio**
+   - Indispensable pour créer l’ambiance immersive.
+
+---
+
+## 🔎 Nouvelle technique découverte
+
+Exemple :
+
+### Projection mapping interactif
+
+Description :
+Technique permettant de projeter du contenu visuel sur des surfaces physiques en les adaptant à leur forme.
+
+Pourquoi c’est intéressant :
+- Fusion entre espace physique et numérique
+- Donne un effet immersif puissant
+
+Image ou croquis :
+![Mapping](medias/mapping_exemple.jpg)
+
+Source :
+Documentation GitHub du projet

@@ -42,7 +42,7 @@
 ---
 
 ## Vue d’ensemble de l’œuvre ou du dispositif
-![Vue d'ensemble](medias/publiques_sur_glace.jpg)
+![publiques_sur_glace](medias/publiques_sur_glace.jpg)
 
 ---
 

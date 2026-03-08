@@ -14,7 +14,6 @@ LUMINO – Festival hivernal de lumière de Montréal
 ---
 
 ## Lieu de mise en exposition
-## Lieu de mise en exposition
 
 L’installation est présentée sur la patinoire de l’esplanade Tranquille, située dans le Quartier des spectacles au centre-ville de Montréal.
 

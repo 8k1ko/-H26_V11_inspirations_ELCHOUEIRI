@@ -30,7 +30,7 @@
 ---
 
 ## Date de votre visite
-À compléter
+28 fevrier 2026
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ## Vue d’ensemble de l’œuvre ou du dispositif
-![Vue d'ensemble](medias/vue_ensemble.jpg)
+![Vue d'ensemble](medias/publiques_sur_glace.JPG)
 
 ---
 

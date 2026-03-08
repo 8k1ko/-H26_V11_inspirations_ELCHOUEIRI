@@ -26,6 +26,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 ---
 
 ## Type d’exposition
+
 - Exposition extérieure
 - Installation temporaire
 - Installation interactive
@@ -33,32 +34,37 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 ---
 
 ## Date de votre visite
+
 28 fevrier 2026
 
 ---
 
 # Œuvre ou dispositif observé
-
 ## Titre de l’œuvre ou du dispositif
+
 Le coffre à jouets dégivré
 
 ---
 
 ## Vue d’ensemble de l’œuvre ou du dispositif
+
 ![publiques_sur_glace](medias/publiques_sur_glace.JPG)
 
 ---
 
 ## Nom de l’artiste ou de la firme
+
 Studios Ottomata et DOKI
 
 ---
 
 ## Année de réalisation
+
+
 2026
+
 ---
 
-## Description de l’œuvre ou du dispositif
 ## Description de l’œuvre ou du dispositif
 
 Le coffre à jouets dégivré est une vidéoprojection interactive projetée sur la patinoire de l’esplanade Tranquille.
@@ -72,10 +78,13 @@ L’expérience propose trois univers différents :
 - Le sol est en lave
 
 Chaque univers dure environ 30 minutes et change selon les mouvements des participants sur la glace.
+
 ---
 
 ## Cartel (pour une œuvre) ou texte explicatif (pour un dispositif)
-À compléter
+
+![Affiche de l'exposition](medias/le_cartel.JPG)
+
 
 ---
 

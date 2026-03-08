@@ -45,7 +45,7 @@ Le coffre à jouets dégivré
 ---
 
 ## Vue d’ensemble de l’œuvre ou du dispositif
-![publiques_sur_glace](medias/publiques_sur_glace.jpg)
+![publiques_sur_glace](medias/publiques_sur_glace.JPG)
 
 ---
 

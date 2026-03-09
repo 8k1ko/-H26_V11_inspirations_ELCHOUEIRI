@@ -124,7 +124,7 @@ Le dispositif s’intègre dans l’espace urbain et transforme temporairement l
 ---
 
 ## Croquis (l’œuvre ou dispositif dans la salle)
-![Croquis](medias/croquis.jpg)
+![Croquis](medias/croquies.jpg)
 
 ---
 

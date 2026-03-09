@@ -2,7 +2,7 @@
 
 ---
 
-## Nom de l’exposition ou de l’événement
+## Nom de l’exposition
 Le coffre à jouets dégivré
 LUMINO – Festival hivernal de lumière de Montréal
 

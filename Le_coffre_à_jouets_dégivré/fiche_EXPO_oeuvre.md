@@ -89,7 +89,9 @@ Chaque univers dure environ 30 minutes et change selon les mouvements des partic
 ---
 
 ## Type d’installation
+
 Installation immersive et interactive
+
 ---
 
 # Fonction du dispositif multimédia

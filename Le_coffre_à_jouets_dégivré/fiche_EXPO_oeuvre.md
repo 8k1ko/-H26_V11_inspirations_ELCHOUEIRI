@@ -134,6 +134,11 @@ Le dispositif s’intègre dans l’espace urbain et transforme temporairement l
 
 ## Croquis 
 ![croquis](media/croquies.jpg)
+<p align="center">
+  <img src="media/croquies.jpg" width="300">
+  <img src="media/vue_haute.jpg" width="300">
+</p>
+
 >Image cree par Karim Elchoueiri du croquis de l'oeuvre
 ---
 

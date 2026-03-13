@@ -1,4 +1,4 @@
-# Fiche EXPO - Œuvre / Dispositif
+# Fiche EXPO - Œuvre / Dispositif Le coffre à jouets dégivré
 
 ---
 
@@ -34,7 +34,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 - Installation immersive
 ---
 
-## Date de votre visite
+## Date de ma visite
 
 28 fevrier 2026
 

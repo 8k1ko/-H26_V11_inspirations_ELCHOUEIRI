@@ -21,7 +21,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 
 ---
 
-## Vous devant l’entrée de l’édifice
+## Moi devant l’entrée de l’édifice
 ![Public dans la ligne](media/le_publique_dans_la_ligne.JPG)
 
 ---

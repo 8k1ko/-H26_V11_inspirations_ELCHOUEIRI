@@ -90,7 +90,7 @@ Chaque univers dure environ 30 minutes et change selon les mouvements des partic
 ## Cartel 
 
 <p align="center">
-  <img src="cartel_internet.jpg" width="300">
+  <img src="media/cartel_internet.jpg" width="300">
   <img src="media/le_cartel.JPG" width="300">
 </p>
 

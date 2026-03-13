@@ -24,7 +24,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 ## Moi devant l’entrée de l’édifice
 <p align="center">
   <img src="media/moi_qui_patine_02.JPG" width="300">
-  <img src="media/le_publique_dans_la_ligne" width="300">
+  <img src="media/le_publique_dans_la_ligne.JPG" width="300">
 </p>
 >Image prise de Karim Elchoueiri par Adam Ahmad
 ---

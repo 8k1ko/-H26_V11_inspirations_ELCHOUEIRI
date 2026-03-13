@@ -10,7 +10,7 @@ LUMINO – Festival hivernal de lumière de Montréal
 
 ## Affiche de l’exposition
 
-![Cartel de l'œuvre](medias/le_cartel.JPG)
+![Cartel de l'œuvre](media/le_cartel.JPG)
 
 ---
 

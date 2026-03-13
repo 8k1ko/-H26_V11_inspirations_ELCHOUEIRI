@@ -192,6 +192,6 @@ Sources :
 - https://www.quartierdesspectacles.com/fr/activites-et-evenements/le-coffre-a-jouets-degivre
 
 <p align="center">
-  <img src="moi_qui_patine_02.JPG" width="300"/>
-  <img src="projecteur_sur_glace.JPEG" width="300"/>
-</p>**
+  <img src="media/moi_qui_patine_02.JPG" width="300">
+  <img src="media/projecteur_sur_glace.JPEG" width="300">
+</p>

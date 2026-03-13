@@ -11,7 +11,7 @@ LUMINO – Festival hivernal de lumière de Montréal
 ## Affiche de l’exposition
 
 ![affiche de l'œuvre](media/affiche.jpg)
-
+>Image de l'affiche prise de https://www.quartierdesspectacles.com/fr/industrie/medias/le-coffre-a-jouets-degivre-une-experience-interactive-unique 
 ---
 
 ## Lieu de mise en exposition
@@ -23,7 +23,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 
 ## Moi devant l’entrée de l’édifice
 ![Public dans la ligne](media/le_publique_dans_la_ligne.JPG)
-
+>Image prise par Adam Ahmad de Karim Elchoueiri
 ---
 
 ## Type d’exposition
@@ -50,7 +50,7 @@ Le coffre à jouets dégivré
 ## Vue d’ensemble de l’œuvre ou du dispositif
 
 ![Publics sur glace](media/publiques_sur_glace.JPG)
-
+>Image prise par Karim Elchoueiri du publics sur la glace
 ---
 
 ## Nom de l’artiste ou de la firme
@@ -85,7 +85,7 @@ Chaque univers dure environ 30 minutes et change selon les mouvements des partic
 ## Cartel 
 
 ![Cartel de l'œuvre](media/le_cartel.JPG)
-
+>Image prise par Karim Elchoueiri du cartel de l'oeuvre
 ---
 
 ## Type d’installation
@@ -125,7 +125,7 @@ Le dispositif s’intègre dans l’espace urbain et transforme temporairement l
 
 ## Croquis 
 ![croquis](media/croquies.jpg)
-
+>Image cree par Karim Elchoueiri du croquis de l'oeuvre
 ---
 
 # Composantes et techniques

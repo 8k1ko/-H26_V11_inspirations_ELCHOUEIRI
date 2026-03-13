@@ -23,7 +23,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 
 ## Moi devant l’entrée de l’édifice
 ![Public dans la ligne](media/le_publique_dans_la_ligne.JPG)
->Image prise par Adam Ahmad de Karim Elchoueiri
+>Image prise de Karim Elchoueiri par Adam Ahmad
 ---
 
 ## Type d’exposition
@@ -136,13 +136,12 @@ Le dispositif s’intègre dans l’espace urbain et transforme temporairement l
 - Système informatique de contrôle des projections
 - Capteurs ou système de détection de mouvement
 - Logiciel interactif générant les animations
-- Surface de projection (glace de la patinoire)
 
 ---
 
 ## Éléments nécessaires à la mise en exposition
 
-- Patinoire ou grande surface de projection
+- Grande surface de projection
 - Structures techniques pour installer les projecteurs
 - Système électrique
 - Ordinateurs pour contrôler les projections

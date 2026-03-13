@@ -49,7 +49,7 @@ Le coffre à jouets dégivré
 
 ## Vue d’ensemble de l’œuvre ou du dispositif
 
-
+![Publics sur glace](media/publiques_sur_glace.JPG)
 
 ---
 
@@ -82,10 +82,9 @@ Chaque univers dure environ 30 minutes et change selon les mouvements des partic
 
 ---
 
-## Cartel (pour une œuvre) ou texte explicatif (pour un dispositif)
+## Cartel 
 
-
-
+![Cartel de l'œuvre](media/le_cartel.JPG)
 
 ---
 
@@ -124,8 +123,8 @@ Le dispositif s’intègre dans l’espace urbain et transforme temporairement l
 
 ---
 
-## Croquis (l’œuvre ou dispositif dans la salle)
-
+## Croquis 
+![croquis](media/croquies.jpg)
 
 ---
 

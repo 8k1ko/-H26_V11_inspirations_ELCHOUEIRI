@@ -47,27 +47,27 @@ Selon le cartel observé sur place, les technologies utilisées sont :
 L’installation finale prend la forme d’une structure centrale entourée de téléviseurs cathodiques, de tubes lumineux verticaux, de végétation artificielle et de fleurs décoratives. Plusieurs écrans montrent des yeux en gros plan, ce qui attire immédiatement le regard du visiteur. La caméra est intégrée à l’intérieur de la structure pour capter le regard de la personne qui s’approche.
 
 ### Photo de l’ensemble
-![Vue d’ensemble de l’installation](medias/vue_ensemble_installation_tv_retro.jpeg)
+![Vue d’ensemble de l’installation](media/vue_ensemble_installation_tv_retro.jpeg)
 
 *Légende : Vue d’ensemble de l’installation **Quand les yeux se croisent**, photo prise lors de l’exposition finale.*
 
 ### Photo de face
-![Vue avant de l’installation](medias/vue_avant_installation_yeux_ecrans.jpeg)
+![Vue avant de l’installation](media/vue_avant_installation_yeux_ecrans.jpeg)
 
 *Légende : Vue avant de l’installation avec les écrans cathodiques et les lumières.*
 
 ### Photo intérieure
-![Vue intérieure avec caméra](medias/interieur_installation_camera_ecrans.jpeg)
+![Vue intérieure avec caméra](media/interieur_installation_camera_ecrans.jpeg)
 
 *Légende : Vue intérieure de l’installation montrant la caméra et une partie du dispositif technique.*
 
 ### Cartel
-![Cartel de l’œuvre](medias/cartel_quand_les_yeux_se_croisent.jpeg)
+![Cartel de l’œuvre](media/cartel_quand_les_yeux_se_croisent.jpeg)
 
 *Légende : Cartel de l’œuvre présenté dans l’exposition.*
 
 ### Setup technique
-![Setup technique du projet](medias/setup_touchdesigner_installation.jpeg)
+![Setup technique du projet](media/setup_touchdesigner_installation.jpeg)
 
 *Légende : Poste technique du projet pendant la production, avec l’environnement de travail utilisé pour piloter l’installation.*
 
@@ -77,7 +77,7 @@ L’installation finale prend la forme d’une structure centrale entourée de t
 **À ajouter ici** le schéma de mise en espace ou de plantation si tu le télécharges depuis la documentation GitHub de l’équipe.
 
 Exemple :
-![Schéma de l’installation](medias/schema_quand_les_yeux_se_croisent.jpg)
+![Schéma de l’installation](media/schema_quand_les_yeux_se_croisent.jpg)
 
 *Légende : Schéma de mise en espace du projet, source : documentation GitHub de l’équipe du projet.*
 

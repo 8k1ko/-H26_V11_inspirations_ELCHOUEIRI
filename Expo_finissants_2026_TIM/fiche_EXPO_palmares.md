@@ -1,7 +1,7 @@
 # Fiche – Réseau Vivant – Palmarès des autres projets
 
 ## Exposition
-**Réseau Vivant** – Exposition des finissantes et des finissants du programme de **Techniques d’intégration multimédia** du Collège Montmorency, présentée au **Grand studio C-1712**. Les projets présentés sur la page officielle sont : **Terminal**, **Océan Rouge**, **Quand les yeux se croisent**, **Mission Décollage**, **Arbre-en-face** et **Symbiose**. :contentReference[oaicite:15]{index=15}
+**Réseau Vivant** – Exposition des finissantes et des finissants du programme de **Techniques d’intégration multimédia** du Collège Montmorency, présentée au **Grand studio C-1712**. Les projets présentés sur la page officielle sont : **Terminal**, **Océan Rouge**, **Quand les yeux se croisent**, **Mission Décollage**, **Arbre-en-face** et **Symbiose**.
 
 > Cette fiche regroupe les **autres projets**, ordonnés selon ma préférence personnelle.  
 > Mon projet préféré reste **Quand les yeux se croisent**, donc il n’apparaît pas dans ce palmarès.
@@ -11,7 +11,7 @@
 # 1. Symbiose
 
 ## Titre du projet
-**Symbiose** :contentReference[oaicite:16]{index=16}
+**Symbiose**
 
 ## Noms des créateurs et créatrices
 **[À compléter à partir du GitHub de l’équipe]**
@@ -23,7 +23,7 @@
 **[Ajouter ici le schéma de plantation / implantation téléchargé depuis la documentation GitHub de l’équipe]**
 
 ## Ce que je ressens en expérimentant cette installation
-J’ai placé **Symbiose** en deuxième position dans mon classement personnel. Le titre me fait penser à une relation forte entre plusieurs éléments, vivants ou technologiques. Je trouve cette idée intéressante dans le contexte de l’exposition **Réseau Vivant**, parce qu’elle rejoint bien le thème des connexions, des échanges et de l’interdépendance. :contentReference[oaicite:17]{index=17}
+J’ai placé **Symbiose** en deuxième position dans mon classement personnel. Le titre me fait penser à une relation forte entre plusieurs éléments, vivants ou technologiques. Je trouve cette idée intéressante dans le contexte de l’exposition **Réseau Vivant**, parce qu’elle rejoint bien le thème des connexions, des échanges et de l’interdépendance.
 
 Je m’attends à une expérience où plusieurs éléments travaillent ensemble pour créer un tout cohérent. C’est le genre de projet qui peut être à la fois poétique et technologique, ce que j’aime beaucoup.
 
@@ -32,7 +32,7 @@ Je m’attends à une expérience où plusieurs éléments travaillent ensemble 
 # 2. Terminal
 
 ## Titre du projet
-**Terminal** :contentReference[oaicite:18]{index=18}
+**Terminal**
 
 ## Noms des créateurs et créatrices
 **[À compléter à partir du GitHub de l’équipe]**
@@ -53,7 +53,7 @@ Ce genre de projet m’attire parce qu’il semble pouvoir créer une ambiance m
 # 3. Mission Décollage
 
 ## Titre du projet
-**Mission Décollage** :contentReference[oaicite:19]{index=19}
+**Mission Décollage**
 
 ## Noms des créateurs et créatrices
 **[À compléter à partir du GitHub de l’équipe]**
@@ -74,7 +74,7 @@ Je trouve que l’idée d’un « décollage » fonctionne bien dans une exposit
 # 4. Arbre-en-face
 
 ## Titre du projet
-**Arbre-en-face** :contentReference[oaicite:20]{index=20}
+**Arbre-en-face**
 
 ## Noms des créateurs et créatrices
 **[À compléter à partir du GitHub de l’équipe]**
@@ -95,7 +95,7 @@ J’aime le fait qu’un projet puisse partir d’une image aussi simple qu’un
 # 5. Océan Rouge
 
 ## Titre du projet
-**Océan Rouge** :contentReference[oaicite:21]{index=21}
+**Océan Rouge**
 
 ## Noms des créateurs et créatrices
 **[À compléter à partir du GitHub de l’équipe]**
@@ -114,34 +114,34 @@ Je pense que cette œuvre peut avoir une identité visuelle très puissante. Mê
 ---
 
 # 3 cours du programme TIM qui me semblent incontournables
-La grille officielle du programme montre plusieurs cours directement liés à la création d’installations et d’expériences interactives. Ceux qui me paraissent les plus incontournables sont **Programmation interactive**, **Installation multimédia** et **Expérience multimedia**. :contentReference[oaicite:22]{index=22}
+La grille officielle du programme montre plusieurs cours directement liés à la création d’installations et d’expériences interactives. Ceux qui me paraissent les plus incontournables sont **Programmation interactive**, **Installation multimédia** et **Expérience multimedia**.
 
 ## Programmation interactive
-Ce cours est important parce qu’il aide à créer des interactions entre le public et le dispositif. Pour ce type d’exposition, il faut que l’œuvre puisse répondre à une action, à une présence ou à un comportement du spectateur. :contentReference[oaicite:23]{index=23}
+Ce cours est important parce qu’il aide à créer des interactions entre le public et le dispositif. Pour ce type d’exposition, il faut que l’œuvre puisse répondre à une action, à une présence ou à un comportement du spectateur.
 
 ## Installation multimédia
-Ce cours est essentiel parce qu’il touche directement la conception d’un projet dans un espace réel. Il aide à penser la disposition des éléments, la circulation du public, l’intégration des écrans, du son, de la lumière et des objets. :contentReference[oaicite:24]{index=24}
+Ce cours est essentiel parce qu’il touche directement la conception d’un projet dans un espace réel. Il aide à penser la disposition des éléments, la circulation du public, l’intégration des écrans, du son, de la lumière et des objets.
 
 ## Expérience multimedia
-Ce cours est important parce qu’il rassemble plusieurs compétences du programme dans un projet final complet. Il demande à la fois de concevoir, produire, tester et présenter une œuvre interactive. :contentReference[oaicite:25]{index=25}
+Ce cours est important parce qu’il rassemble plusieurs compétences du programme dans un projet final complet. Il demande à la fois de concevoir, produire, tester et présenter une œuvre interactive.
 
 ---
 
 # Une technique ou composante technologique que je ne connaissais pas
 Une composante technologique que j’ai trouvée intéressante est **MediaPipe**, mentionnée dans le projet **Quand les yeux se croisent**.
 
-MediaPipe est un framework open source qui permet de construire des systèmes de perception en temps réel à partir de flux vidéo et d’autres médias. Cela permet de développer des dispositifs interactifs capables de détecter ou d’analyser certains éléments visuels rapidement. Dans une installation interactive, cette technologie peut aider à transformer les mouvements ou la présence du public en réponses visuelles à l’écran. :contentReference[oaicite:26]{index=26}
+MediaPipe est un framework open source qui permet de construire des systèmes de perception en temps réel à partir de flux vidéo et d’autres médias. Cela permet de développer des dispositifs interactifs capables de détecter ou d’analyser certains éléments visuels rapidement. Dans une installation interactive, cette technologie peut aider à transformer les mouvements ou la présence du public en réponses visuelles à l’écran.
 
 ---
 
 # Conclusion
 Ce palmarès représente mon appréciation personnelle des autres projets de l’exposition **Réseau Vivant**. Même si chaque œuvre semble avoir son propre univers, j’ai choisi de les classer selon les idées, les ambiances et les expériences qui me rejoignent le plus.
 
-Ce qui ressort de l’ensemble de l’exposition, c’est la variété des approches possibles en multimédia interactif. Certains projets semblent plus immersifs, d’autres plus poétiques, plus narratifs ou plus dynamiques, mais tous participent à une réflexion sur les liens entre le public, l’espace, la technologie et l’émotion. :contentReference[oaicite:27]{index=27}
+Ce qui ressort de l’ensemble de l’exposition, c’est la variété des approches possibles en multimédia interactif. Certains projets semblent plus immersifs, d’autres plus poétiques, plus narratifs ou plus dynamiques, mais tous participent à une réflexion sur les liens entre le public, l’espace, la technologie et l’émotion.
 
 ---
 
 # Sources
-- Document du travail : informations demandées pour la fiche palmarès. :contentReference[oaicite:28]{index=28} :contentReference[oaicite:29]{index=29}
-- Page officielle de l’exposition **Réseau Vivant – 2026**. :contentReference[oaicite:30]{index=30}
-- Grille officielle du programme **Techniques d’intégration multimédia** du Collège Montmorency. :contentReference[oaicite:31]{index=31}
+- Document du travail : informations demandées pour la fiche palmarès.
+- Page officielle de l’exposition **Réseau Vivant – 2026**.
+- Grille officielle du programme **Techniques d’intégration multimédia** du Collège Montmorency.

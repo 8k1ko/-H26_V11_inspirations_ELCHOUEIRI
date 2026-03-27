@@ -3,7 +3,7 @@
 ## Nom de l’exposition
 **Réseau Vivant**
 
-Exposition des finissantes et des finissants du programme de **Techniques d’intégration multimédia** du Collège Montmorency. L’exposition a eu lieu au **Grand studio C-1712** et présentait plusieurs projets interactifs autour du thème de la connectivité, des échanges, des données et des émotions. :contentReference[oaicite:4]{index=4}
+Exposition des finissantes et des finissants du programme de **Techniques d’intégration multimédia** du Collège Montmorency. L’exposition a eu lieu au **Grand studio C-1712** et présentait plusieurs projets interactifs autour du thème de la connectivité, des échanges, des données et des émotions.
 
 ---
 
@@ -106,23 +106,23 @@ Je retiens aussi l’importance de la scénographie. Le projet n’aurait pas eu
 ---
 
 ## 3 cours du programme TIM qui me semblent incontournables
-Selon la grille officielle du programme TIM du Collège Montmorency, plusieurs cours préparent directement à la création d’installations interactives. Parmi eux, voici les 3 qui me semblent les plus importants : **Programmation interactive (420 V11 MO)**, **Installation multimédia (582 521 MO)** et **Expérience multimedia (582 601 MO)**. :contentReference[oaicite:5]{index=5}
+Selon la grille officielle du programme TIM du Collège Montmorency, plusieurs cours préparent directement à la création d’installations interactives. Parmi eux, voici les 3 qui me semblent les plus importants : **Programmation interactive (420 V11 MO)**, **Installation multimédia (582 521 MO)** et **Expérience multimedia (582 601 MO)**.
 
 ### 1. Programmation interactive
-Ce cours est important pour comprendre comment faire réagir un dispositif aux actions du public. Dans un projet comme **Quand les yeux se croisent**, la logique interactive est essentielle, parce que l’œuvre doit détecter, analyser et répondre au comportement du visiteur. :contentReference[oaicite:6]{index=6}
+Ce cours est important pour comprendre comment faire réagir un dispositif aux actions du public. Dans un projet comme **Quand les yeux se croisent**, la logique interactive est essentielle, parce que l’œuvre doit détecter, analyser et répondre au comportement du visiteur.
 
 ### 2. Installation multimédia
-Ce cours est incontournable parce qu’il prépare directement à concevoir des œuvres dans un espace physique. Il ne s’agit pas seulement de faire fonctionner la technologie, mais aussi de penser à l’intégration des écrans, des lumières, du son et du parcours du public. :contentReference[oaicite:7]{index=7}
+Ce cours est incontournable parce qu’il prépare directement à concevoir des œuvres dans un espace physique. Il ne s’agit pas seulement de faire fonctionner la technologie, mais aussi de penser à l’intégration des écrans, des lumières, du son et du parcours du public.
 
 ### 3. Expérience multimedia
-Ce cours me semble essentiel, car il regroupe plusieurs compétences du programme dans un projet final complet. Il demande de travailler en équipe, de passer du concept à la réalisation, puis de présenter le projet au public. C’est exactement l’esprit d’une œuvre comme celle-ci. :contentReference[oaicite:8]{index=8}
+Ce cours me semble essentiel, car il regroupe plusieurs compétences du programme dans un projet final complet. Il demande de travailler en équipe, de passer du concept à la réalisation, puis de présenter le projet au public. C’est exactement l’esprit d’une œuvre comme celle-ci.
 
 ---
 
 ## Une technique ou composante technologique que je ne connaissais pas
 La composante technologique que je connaissais moins est **MediaPipe**.
 
-MediaPipe est un framework open source qui sert à construire des pipelines de perception en temps réel à partir de médias comme la vidéo. Il est utilisé pour détecter et analyser des informations visuelles rapidement, par exemple dans des flux caméra. Dans le contexte de ce projet, cela aide à comprendre comment le système peut capter le regard ou suivre certains mouvements pour produire une réponse interactive en direct. :contentReference[oaicite:9]{index=9}
+MediaPipe est un framework open source qui sert à construire des pipelines de perception en temps réel à partir de médias comme la vidéo. Il est utilisé pour détecter et analyser des informations visuelles rapidement, par exemple dans des flux caméra. Dans le contexte de ce projet, cela aide à comprendre comment le système peut capter le regard ou suivre certains mouvements pour produire une réponse interactive en direct.
 
 ### Image ou croquis lié à cette composante
 ![Setup technique du projet](medias/setup_touchdesigner_installation.jpeg)
@@ -143,7 +143,7 @@ Pour moi, c’est un très bon exemple d’un projet multimédia interactif réu
 ---
 
 ## Sources
-- Consignes du travail et informations demandées dans la fiche : document du cours fourni par l’enseignant. :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}
-- Page officielle de l’exposition **Réseau Vivant – 2026** : titres des projets, dates, lieu, contexte général. :contentReference[oaicite:13]{index=13}
-- Grille officielle du programme **Techniques d’intégration multimédia** du Collège Montmorency. :contentReference[oaicite:14]{index=14}
+- Consignes du travail et informations demandées dans la fiche : document du cours fourni par l’enseignant.
+- Page officielle de l’exposition **Réseau Vivant – 2026** : titres des projets, dates, lieu, contexte général.
+- Grille officielle du programme **Techniques d’intégration multimédia** du Collège Montmorency.
 - Informations observées directement sur le cartel et dans les photos prises sur place.

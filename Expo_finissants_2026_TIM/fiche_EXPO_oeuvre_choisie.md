@@ -125,7 +125,7 @@ La composante technologique que je connaissais moins est **MediaPipe**.
 MediaPipe est un framework open source qui sert à construire des pipelines de perception en temps réel à partir de médias comme la vidéo. Il est utilisé pour détecter et analyser des informations visuelles rapidement, par exemple dans des flux caméra. Dans le contexte de ce projet, cela aide à comprendre comment le système peut capter le regard ou suivre certains mouvements pour produire une réponse interactive en direct.
 
 ### Image ou croquis lié à cette composante
-![Setup technique du projet](medias/setup_touchdesigner_installation.jpeg)
+![Setup technique du projet](medias/schema_quand_les_yeux_se_croisent.jpeg)
 
 *Légende : Poste technique associé au fonctionnement du projet. La photo montre l’environnement de production de l’installation.*
 

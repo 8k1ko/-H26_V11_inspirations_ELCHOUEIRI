@@ -2,7 +2,7 @@
 
 ## Rencontre avec Martin Boucher, technicien multimédia
 
-![exterieur du musee d'ingeniosité](medias/exterieur_du_musee.jpg.jpg)
+![exterieur du musee d'ingeniosité](medias/exterieur_du_musee.jpg)
 
 *Dispositif interactif de l’exposition permanente. Source : Musée de l’ingéniosité J. Armand Bombardier, image « expo-permanente-scaled.jpg ».*
 

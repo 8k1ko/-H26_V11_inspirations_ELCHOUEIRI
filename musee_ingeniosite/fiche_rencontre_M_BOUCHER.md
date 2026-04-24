@@ -4,7 +4,7 @@
 
 ![exterieur du musee d'ingeniosité](medias/exterieur_du_musee.jpg)
 
-*Dispositif interactif de l’exposition permanente. Source : Musée de l’ingéniosité J. Armand Bombardier, image « expo-permanente-scaled.jpg ».*
+*Source : Musée de l’ingéniosité J. Armand Bombardier, image « exterieur du musee.jpg ».*
 
 Dans cette conférence, Martin Boucher, technicien multimédia au Musée de l’ingéniosité J. Armand Bombardier, a présenté son travail et le fonctionnement de plusieurs dispositifs multimédias de l’exposition permanente. Son rôle comprend la prise de photos, la vidéo, le montage, l’installation et l’entretien des équipements interactifs.
 

@@ -160,37 +160,37 @@ Cette installation s’intègre bien dans l’exposition **Explore – La scienc
 
 ![Panneau explicatif du dispositif](medias/panneau-explicatif.jpg)
 
-> ** Panneau explicatif du dispositif *Le langage des ordinateurs*.
+> Panneau explicatif du dispositif *Le langage des ordinateurs*.
 
 ### Interface de contrôle
 
 ![Écran tactile de programmation](medias/interface-controle.jpg)
 
-**Légende :** Écran tactile utilisé pour programmer les actions du dispositif.
+> Écran tactile utilisé pour programmer les actions du dispositif.
 
 ### Boîtier électronique
 
 ![Boîtier technique vitré](medias/boitier-electronique.jpg)
 
-**Légende :** Boîtier vitré qui montre une partie des composantes électroniques.
+> Boîtier vitré qui montre une partie des composantes électroniques.
 
 ### Maquette centrale
 
 ![Maquette centrale du dispositif](medias/maquette-centrale.jpg)
 
-**Légende :** Petits modèles physiques placés au centre de l’installation.
+> Petits modèles physiques placés au centre de l’installation.
 
 ### Vue d’ensemble de l’espace
 
 ![Vue générale de l’installation](medias/vue-ensemble.jpg)
 
-**Légende :** Vue générale de l’espace interactif.
+> Vue générale de l’espace interactif.
 
 ### Projecteur au plafond
 
 ![Projecteur de l’installation](medias/projecteur-plafond.jpg)
 
-**Légende :** Projecteur utilisé pour créer les effets visuels.
+> Projecteur utilisé pour créer les effets visuels.
 
 ---
 

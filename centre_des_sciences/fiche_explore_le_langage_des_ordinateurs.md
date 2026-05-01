@@ -160,7 +160,7 @@ Cette installation s’intègre bien dans l’exposition **Explore – La scienc
 
 ![Panneau explicatif du dispositif](medias/panneau-explicatif.jpg)
 
-< ** Panneau explicatif du dispositif *Le langage des ordinateurs*. >
+> ** Panneau explicatif du dispositif *Le langage des ordinateurs*.
 
 ### Interface de contrôle
 

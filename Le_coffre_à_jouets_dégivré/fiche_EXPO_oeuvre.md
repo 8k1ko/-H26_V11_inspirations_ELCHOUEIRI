@@ -41,7 +41,7 @@ Ce lieu est un espace public extérieur qui accueille régulièrement des évén
 
 ## Date de ma visite
 
-28 fevrier 2026
+28 fevrier 2026 (La nuit blanche de montreal)
 
 ---
 

@@ -178,7 +178,7 @@ L’expérience dure aussi longtemps que le visiteur reste sur la patinoire, et 
 
 ---
 
-## Ce qui vous a plu / idées que cela vous a données
+## Ce qui ma plu 
 
 Ce que j’ai particulièrement apprécié est l’aspect interactif de l’installation. Les visiteurs deviennent directement une partie de l’œuvre grâce à leurs mouvements sur la glace.
 
@@ -187,7 +187,7 @@ L’installation transforme un espace public normal en une expérience artistiqu
 
 ---
 
-## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement
+## Aspect que je ne souhaite pas retenir ou que je fersais autrement
 
 Un aspect qui pourrait être amélioré serait la visibilité des projections lorsqu’il y a beaucoup de patineurs sur la glace. Par moments, il peut être difficile de voir certains effets visuels.
 
